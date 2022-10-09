@@ -1,3 +1,4 @@
+# Лев Дорошенко ИБ/б-21-1-о
 import sys
 from mainWindow import *
 
